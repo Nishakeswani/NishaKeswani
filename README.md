@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-Hey there, *welcome to my GitHub world!* 👋 I'm **Rajaram Erraguntla**, but you can call me **Raj**. 
+Hey there, *welcome to my GitHub world!* 👋 I'm **Nisha Keswani**, but you can call me **Nisha**. 
 
-I've spent more than **7+ years as a CloudOps Lead | AWS Enthusiast | DevOps Evangelist** and I'm really into AWS and DevOps. 🚀 Imagine me as a digital architect who crafts the realm of cloud technology. It's like I'm the one ensuring the backstage magic runs seamlessly for software development (that's the SDLC part), all while grooving to the beat of DevOps practices. 🕺
+I've spent more than **4+ years as a Infrastructure Specialist** and I'm really into AWS and DevOps. 🚀 Imagine me as a digital architect who crafts the realm of cloud technology. It's like I'm the one ensuring the backstage magic runs seamlessly for software development (that's the SDLC part), all while grooving to the beat of DevOps practices. 🕺
 
 I'm naturally skilled at solving problems. Think of me wielding a toolkit packed with specialized tools from Amazon Web Services (AWS) and the latest DevOps techniques. 🔧 With these tools, I engineer intelligent solutions to elevate our tech landscape. But here's something cool: I'm not just about the ordinary. I'm like an explorer venturing into the universe of open-source tools. They're akin to uncharted constellations in the sky, and I'm always thrilled to uncover new ones that illuminate our tech cosmos. ✨
 
