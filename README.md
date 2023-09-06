@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-Hey there, *welcome to my GitHub world!* 👋 I'm **Nisha Keswani**, but you can call me **Nisha**. 
+Hey there, *welcome to my GitHub world!* 👋 I'm **Nisha Keswani**, and you can call me **Nisha**. 
 
